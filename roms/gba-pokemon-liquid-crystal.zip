@@ -1,0 +1,798 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Play Emulator Games Online For Free</title>
+    <meta name="description" content="Play Emulator Games online for Free and discover why millions of fans love it years after release!" />
+    <meta name="yandex-verification" content="f6fa8f0ab2072f99" />
+<meta name="ahrefs-site-verification" content="56f616cd336bf0bc3d6289f8c56a4e336f65efbfc8f951a0c59451960a55ecff">
+<link rel="canonical" href="https://emulatorgames.onl/" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="keywords" content="Online-Emulator-Spiele" />
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="shortcut icon" href="assets/images/fav.png" type="image/png">
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/uikit@latest/dist/css/uikit.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+<style>
+
+html {
+    background: url(assets/images/bb.jpg);
+    
+    background-color: #0000004d;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    background-position: center;
+    background-blend-mode: hard-light;
+    
+}
+p,h1,h2,h3,a,span,kdb { font-family: 'Orbitron', sans-serif !important;}
+
+.cssgrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 40px;
+    grid-auto-rows: minmax(auto, auto);
+    grid-auto-flow: dense;
+}
+.cssgrid ul {
+    margin:0;
+}
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #000000;
+}
+.bg {
+        background: #000000c2;
+        padding: 10px;
+}
+p a {
+    color: #c0c994 !important;
+    text-decoration: underline;
+}
+    .item a {
+         text-decoration: none;
+        display:block;
+    }
+.controls {
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+}
+/* Controls styles */
+.game-info__controls {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+    
+.control {
+    margin-right: 30px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.control__sign {
+    display: inline-flex;
+    justify-content: center;
+    padding: 0 4px;
+    min-width: 25px;
+    height: 25px;
+    line-height: 25px;
+    color: #fff;
+    background-color: #555;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.control__name {
+    position: relative;
+    padding-left: 23px;
+}
+.control__name:before {
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+    left: 8px;
+    content: "";
+    height: 1px;
+    width: 7px;
+    background-color: #ffffff;
+}
+
+.uk-navbar-toggle-icon {
+    padding-left: 30px;
+    color: #fff;
+}
+
+.uk-container {
+    min-height: calc(100vh - 224px);
+        padding-bottom: 50px;
+}
+
+#cg {
+    position:relative;
+
+}
+
+#button {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 99999999;
+    cursor: pointer;
+}
+/* Neon styles */
+
+
+.neonText {
+    color: #fff;
+    
+    text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #c4ff00,
+      0 0 82px #c4ff00,
+      0 0 92px #c4ff00,
+      0 0 102px #c4ff00,
+      0 0 151px #c4ff00;
+  }
+
+.uk-button { padding: 0px 12px;}
+    
+</style>	<script>
+
+	
+	
+	window.aiptag = window.aiptag || { cmd: []};
+	aiptag.cmd.display = aiptag.cmd.display || [];
+	aiptag.cmd.player = aiptag.cmd.player || [];
+	//CMP tool settings
+	aiptag.cmp = {
+		show: true,
+		position: "centered",  //centered, bottom
+		button: true,
+		buttonText: "Privacy settings",
+		buttonPosition: "bottom-left" //bottom-left, bottom-right, top-left, top-right
+	}
+	aiptag.cmd.player.push(function() {
+		aiptag.adplayer = new aipPlayer({
+			AD_WIDTH: 960,
+			AD_HEIGHT: 450,
+			AD_DISPLAY: 'fullscreen', //default, fullscreen, center, fill
+			LOADING_TEXT: 'loading advertisement',
+			PREROLL_ELEM: function(){ return document.getElementById('preroll')},
+			AIP_COMPLETE: function (state)  {
+				const button = document.querySelector('.ejs--73f9b4e94a7a1fe74e11107d5ab2ef');
+                button.click();
+                
+                
+			}
+		});
+
+			});
+
+		function show_preroll() {
+		//check if the adslib is loaded correctly or blocked by adblockers etc.
+		if (typeof aiptag.adplayer !== 'undefined') {
+			aiptag.cmd.player.push(function() { aiptag.adplayer.startPreRoll(); });
+		} else {
+			//Adlib didnt load this could be due to an adblocker, timeout etc.
+			//Please add your script here that starts the content, this usually is the same script as added in AIP_COMPLETE.
+			alert("Ad Could not be loaded, load your content here");
+		}
+	}
+		</script>
+	<script async src="//api.adinplay.com/libs/aiptag/pub/AGU/emulatorgames.onl/tag.min.js"></script><link rel="stylesheet" href="/assets/components/msearch2/css/web/default.css" type="text/css" />
+
+	<script type="text/javascript">
+		if (typeof mse2Config == "undefined") {mse2Config = {"cssUrl":"\/assets\/components\/msearch2\/css\/web\/","jsUrl":"\/assets\/components\/msearch2\/js\/web\/","actionUrl":"\/assets\/components\/msearch2\/action.php"};}
+		if (typeof mse2FormConfig == "undefined") {mse2FormConfig = {};}
+		mse2FormConfig["a0fa6b023f1d91173f0f6e3e769c80d2530dcc8e"] = {"autocomplete":"results","queryVar":"query","minQuery":3,"pageId":4764};
+	</script>
+</head>
+<body>
+
+<nav class="uk-navbar-container uk-margin" uk-navbar>
+    <div class="uk-navbar-left">
+        <a class="uk-navbar-toggle" uk-navbar-toggle-icon href="#" uk-toggle="target: #offcanvas-reveal"></a>
+    </div>
+    <div class="uk-navbar-center">
+        <a class="uk-navbar-item uk-logo neonText" href="/">Emulator Games 🎮</a>
+    </div>
+</nav>
+<div id="offcanvas-reveal" uk-offcanvas="mode: reveal; overlay: true">
+    <div class="uk-offcanvas-bar">
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+        <div class="uk-margin">
+    <form data-key="a0fa6b023f1d91173f0f6e3e769c80d2530dcc8e" action="search" method="get" id="mse2_form" class="uk-search uk-search-default">
+        <a href="" uk-search-icon></a>
+        <input class="uk-search-input" type="search" placeholder="Search" name="query" value="">
+    </form>
+</div>        
+        <ul class="uk-nav uk-nav-primary" uk-nav>
+            <li class="uk-parent">
+                <a href="#">CONSOLES <span uk-nav-parent-icon></span></a>
+                <ul class="uk-nav-sub">
+                    <li><a href="https://emulatorgames.onl/atari">Atari 2600</a></li>
+<li><a href="https://emulatorgames.onl/jaguar">Atari Jaguar</a></li>
+<li><a href="https://emulatorgames.onl/lynx">Atari Lynx</a></li>
+<li><a href="https://emulatorgames.onl/game-boy">Game Boy</a></li>
+<li><a href="https://emulatorgames.onl/game-boy-advance">Game Boy Advance</a></li>
+<li><a href="https://emulatorgames.onl/game-boy-color">Game Boy Color</a></li>
+<li><a href="https://emulatorgames.onl/msx">MSX</a></li>
+<li><a href="https://emulatorgames.onl/neo-geo-pocket">Neo Geo Pocket</a></li>
+<li><a href="https://emulatorgames.onl/nintendo">Nintendo</a></li>
+<li><a href="https://emulatorgames.onl/nintendo-64">Nintendo 64</a></li>
+<li><a href="https://emulatorgames.onl/nintendo-ds">Nintendo DS</a></li>
+<li><a href="https://emulatorgames.onl/play-station-1">Play Station 1</a></li>
+<li><a href="https://emulatorgames.onl/sega">Sega</a></li>
+<li><a href="https://emulatorgames.onl/sega-game-gear">Sega Game Gear</a></li>
+<li><a href="https://emulatorgames.onl/sega-master-system">Sega Master System</a></li>
+<li><a href="https://emulatorgames.onl/super-nintendo">Super Nintendo</a></li>
+<li><a href="https://emulatorgames.onl/turbografx-16-pc-engine">Turbografx-16/PC Engine</a></li>
+<li><a href="https://emulatorgames.onl/virtual-boy">Virtual Boy</a></li>
+<li><a href="https://emulatorgames.onl/wonderswan-color">WonderSwan Color</a></li>                </ul>
+            </li>
+            <li class="uk-parent">
+                <a href="#">GAME GENRES <span uk-nav-parent-icon></span></a>
+                <ul class="uk-nav-sub">
+                    <li><a href="https://emulatorgames.onl/3d">3D</a></li>
+<li><a href="https://emulatorgames.onl/action">Action</a></li>
+<li><a href="https://emulatorgames.onl/adventure">Adventure</a></li>
+<li><a href="https://emulatorgames.onl/anime">Anime</a></li>
+<li><a href="https://emulatorgames.onl/arcade">Arcade</a></li>
+<li><a href="https://emulatorgames.onl/beat-em-up">Beat em up</a></li>
+<li><a href="https://emulatorgames.onl/board">Board</a></li>
+<li><a href="https://emulatorgames.onl/card">Card</a></li>
+<li><a href="https://emulatorgames.onl/chess">Chess</a></li>
+<li><a href="https://emulatorgames.onl/cooking">Cooking</a></li>
+<li><a href="https://emulatorgames.onl/distance">Distance</a></li>
+<li><a href="https://emulatorgames.onl/dress-up">Dress-up</a></li>
+<li><a href="https://emulatorgames.onl/driving">Driving</a></li>
+<li><a href="https://emulatorgames.onl/fighting">Fighting</a></li>
+<li><a href="https://emulatorgames.onl/flight">Flight</a></li>
+<li><a href="https://emulatorgames.onl/funny">Funny</a></li>
+<li><a href="https://emulatorgames.onl/girl">Girl</a></li>
+<li><a href="https://emulatorgames.onl/golf">Golf</a></li>
+<li><a href="https://emulatorgames.onl/hockey">Hockey</a></li>
+<li><a href="https://emulatorgames.onl/holiday">Holiday</a></li>
+<li><a href="https://emulatorgames.onl/manga">Manga</a></li>
+<li><a href="https://emulatorgames.onl/maze">Maze</a></li>
+<li><a href="https://emulatorgames.onl/motorbike">Motorbike</a></li>
+<li><a href="https://emulatorgames.onl/movie">Movie</a></li>
+<li><a href="https://emulatorgames.onl/multiplayer">Multiplayer</a></li>
+<li><a href="https://emulatorgames.onl/music">Music</a></li>
+<li><a href="https://emulatorgames.onl/ninja">Ninja</a></li>
+<li><a href="https://emulatorgames.onl/physics">Physics</a></li>
+<li><a href="https://emulatorgames.onl/pinball">Pinball</a></li>
+<li><a href="https://emulatorgames.onl/platform">Platform</a></li>
+<li><a href="https://emulatorgames.onl/point-and-click">Point & Click</a></li>
+<li><a href="https://emulatorgames.onl/puzzle">Puzzle</a></li>
+<li><a href="https://emulatorgames.onl/racing">Racing</a></li>
+<li><a href="https://emulatorgames.onl/rpg">RPG</a></li>
+<li><a href="https://emulatorgames.onl/run-and-gun">Run & Gun</a></li>
+<li><a href="https://emulatorgames.onl/scary">Scary</a></li>
+<li><a href="https://emulatorgames.onl/shoot-em-up">Shoot em up</a></li>
+<li><a href="https://emulatorgames.onl/shooting">Shooting</a></li>
+<li><a href="https://emulatorgames.onl/simulation">Simulation</a></li>
+<li><a href="https://emulatorgames.onl/skateboarding">Skateboarding</a></li>
+<li><a href="https://emulatorgames.onl/skill">Skill</a></li>
+<li><a href="https://emulatorgames.onl/soccer">Soccer</a></li>
+<li><a href="https://emulatorgames.onl/sports">Sports</a></li>
+<li><a href="https://emulatorgames.onl/stone-age">Stone Age</a></li>
+<li><a href="https://emulatorgames.onl/strategy">Strategy</a></li>
+<li><a href="https://emulatorgames.onl/tank">Tank</a></li>
+<li><a href="https://emulatorgames.onl/tennis">Tennis</a></li>
+<li><a href="https://emulatorgames.onl/trivia">Trivia</a></li>
+<li><a href="https://emulatorgames.onl/truck">Truck</a></li>
+<li><a href="https://emulatorgames.onl/tv">TV</a></li>
+<li><a href="https://emulatorgames.onl/volleyball">Volleyball</a></li>
+<li><a href="https://emulatorgames.onl/zombie">Zombie</a></li>                </ul>
+            </li>
+            <li class="uk-parent">
+                <a href="#">GAME SERIES <span uk-nav-parent-icon></span></a>
+                <ul class="uk-nav-sub">
+                    <li><a href="https://emulatorgames.onl/actraiser">ActRaiser</a></li>
+<li><a href="https://emulatorgames.onl/adventure-island">Adventure Island</a></li>
+<li><a href="https://emulatorgames.onl/adventures-of-lolo">Adventures of LOLO</a></li>
+<li><a href="https://emulatorgames.onl/aero-the-acro-bat">Aero the Acro-Bat</a></li>
+<li><a href="https://emulatorgames.onl/alex-kidd">Alex Kidd</a></li>
+<li><a href="https://emulatorgames.onl/alien">Alien</a></li>
+<li><a href="https://emulatorgames.onl/all-games">All Games</a></li>
+<li><a href="https://emulatorgames.onl/animaniacs">Animaniacs</a></li>
+<li><a href="https://emulatorgames.onl/another-world">Another World</a></li>
+<li><a href="https://emulatorgames.onl/arkanoid">Arkanoid</a></li>
+<li><a href="https://emulatorgames.onl/art-of-fighting">Art of Fighting</a></li>
+<li><a href="https://emulatorgames.onl/asterix-and-obelix">Asterix and Obelix</a></li>
+<li><a href="https://emulatorgames.onl/asteroids">Asteroids</a></li>
+<li><a href="https://emulatorgames.onl/barbie">Barbie</a></li>
+<li><a href="https://emulatorgames.onl/baseball">Baseball</a></li>
+<li><a href="https://emulatorgames.onl/batman">Batman</a></li>
+<li><a href="https://emulatorgames.onl/battletoads">Battletoads</a></li>
+<li><a href="https://emulatorgames.onl/bomberman">Bomberman</a></li>
+<li><a href="https://emulatorgames.onl/bonk">Bonk</a></li>
+<li><a href="https://emulatorgames.onl/boogerman">Boogerman</a></li>
+<li><a href="https://emulatorgames.onl/breakout">Breakout</a></li>
+<li><a href="https://emulatorgames.onl/breath-of-fire">Breath of Fire</a></li>
+<li><a href="https://emulatorgames.onl/bruce-lee">Bruce Lee</a></li>
+<li><a href="https://emulatorgames.onl/bubble-bobble">Bubble Bobble</a></li>
+<li><a href="https://emulatorgames.onl/bubsy">Bubsy</a></li>
+<li><a href="https://emulatorgames.onl/bugs-bunny">Bugs Bunny</a></li>
+<li><a href="https://emulatorgames.onl/captain-tsubasa">Captain Tsubasa</a></li>
+<li><a href="https://emulatorgames.onl/castlevania">Castlevania</a></li>
+<li><a href="https://emulatorgames.onl/centipede">Centipede</a></li>
+<li><a href="https://emulatorgames.onl/contra">Contra</a></li>
+<li><a href="https://emulatorgames.onl/crash-bandicoot">Crash Bandicoot</a></li>
+<li><a href="https://emulatorgames.onl/crystalis">Crystalis</a></li>
+<li><a href="https://emulatorgames.onl/dbz">DBZ</a></li>
+<li><a href="https://emulatorgames.onl/defender">Defender</a></li>
+<li><a href="https://emulatorgames.onl/dig-dug">Dig Dug</a></li>
+<li><a href="https://emulatorgames.onl/digimon">Digimon</a></li>
+<li><a href="https://emulatorgames.onl/donkey-kong">Donkey Kong</a></li>
+<li><a href="https://emulatorgames.onl/doom">Doom</a></li>
+<li><a href="https://emulatorgames.onl/double-dragon">Double Dragon</a></li>
+<li><a href="https://emulatorgames.onl/dragon-quest">Dragon Quest</a></li>
+<li><a href="https://emulatorgames.onl/dragon-slayer">Dragon Slayer</a></li>
+<li><a href="https://emulatorgames.onl/dragons-lair">Dragon's Lair</a></li>
+<li><a href="https://emulatorgames.onl/duke-nukem">Duke Nukem</a></li>
+<li><a href="https://emulatorgames.onl/dungeons-and-dragons">Dungeons & Dragons</a></li>
+<li><a href="https://emulatorgames.onl/earthworm-jim">Earthworm Jim</a></li>
+<li><a href="https://emulatorgames.onl/ecco">Ecco</a></li>
+<li><a href="https://emulatorgames.onl/excitebike">Excitebike</a></li>
+<li><a href="https://emulatorgames.onl/fifa">FIFA</a></li>
+<li><a href="https://emulatorgames.onl/final-fantasy">Final Fantasy</a></li>
+<li><a href="https://emulatorgames.onl/fire-emblem">Fire Emblem</a></li>
+<li><a href="https://emulatorgames.onl/frankenstein">Frankenstein</a></li>
+<li><a href="https://emulatorgames.onl/frogger">Frogger</a></li>
+<li><a href="https://emulatorgames.onl/front-mission">Front Mission</a></li>
+<li><a href="https://emulatorgames.onl/galaga">Galaga</a></li>
+<li><a href="https://emulatorgames.onl/garfield">Garfield</a></li>
+<li><a href="https://emulatorgames.onl/gargoyle">Gargoyle</a></li>
+<li><a href="https://emulatorgames.onl/gauntlet">Gauntlet</a></li>
+<li><a href="https://emulatorgames.onl/ghostbusters">Ghostbusters</a></li>
+<li><a href="https://emulatorgames.onl/ghosts-n-goblins">Ghosts n Goblins</a></li>
+<li><a href="https://emulatorgames.onl/golden-axe">Golden Axe</a></li>
+<li><a href="https://emulatorgames.onl/goonies">Goonies</a></li>
+<li><a href="https://emulatorgames.onl/gradius">Gradius</a></li>
+<li><a href="https://emulatorgames.onl/grand-theft-auto">Grand Theft Auto</a></li>
+<li><a href="https://emulatorgames.onl/gremlins">Gremlins</a></li>
+<li><a href="https://emulatorgames.onl/gundam">Gundam</a></li>
+<li><a href="https://emulatorgames.onl/harry-potter">Harry Potter</a></li>
+<li><a href="https://emulatorgames.onl/harvest-moon">Harvest Moon</a></li>
+<li><a href="https://emulatorgames.onl/home-alone">Home Alone</a></li>
+<li><a href="https://emulatorgames.onl/inspector-gadget">Inspector Gadget</a></li>
+<li><a href="https://emulatorgames.onl/internat.-superstar-soccer">Internat. Superstar Soccer</a></li>
+<li><a href="https://emulatorgames.onl/james-bond-007">James Bond 007</a></li>
+<li><a href="https://emulatorgames.onl/jeopardy">Jeopardy</a></li>
+<li><a href="https://emulatorgames.onl/joe-and-mac">Joe & Mac</a></li>
+<li><a href="https://emulatorgames.onl/joust">Joust</a></li>
+<li><a href="https://emulatorgames.onl/jurassic-park">Jurassic Park</a></li>
+<li><a href="https://emulatorgames.onl/kirby">Kirby</a></li>
+<li><a href="https://emulatorgames.onl/klax">Klax</a></li>
+<li><a href="https://emulatorgames.onl/lego">LEGO</a></li>
+<li><a href="https://emulatorgames.onl/lemmings">Lemmings</a></li>
+<li><a href="https://emulatorgames.onl/lost-vikings">Lost Vikings</a></li>
+<li><a href="https://emulatorgames.onl/madden">Madden</a></li>
+<li><a href="https://emulatorgames.onl/mario">Mario</a></li>
+<li><a href="https://emulatorgames.onl/marvel">Marvel</a></li>
+<li><a href="https://emulatorgames.onl/mcdonalds">McDonald's</a></li>
+<li><a href="https://emulatorgames.onl/mega-man">Mega Man</a></li>
+<li><a href="https://emulatorgames.onl/metal-gear">Metal Gear</a></li>
+<li><a href="https://emulatorgames.onl/metroid">Metroid</a></li>
+<li><a href="https://emulatorgames.onl/mickey-mouse">Mickey Mouse</a></li>
+<li><a href="https://emulatorgames.onl/micro-machines">Micro Machines</a></li>
+<li><a href="https://emulatorgames.onl/mighty-max">Mighty Max</a></li>
+<li><a href="https://emulatorgames.onl/mike-tyson">Mike Tyson</a></li>
+<li><a href="https://emulatorgames.onl/monopoly">Monopoly</a></li>
+<li><a href="https://emulatorgames.onl/mortal-kombat">Mortal Kombat</a></li>
+<li><a href="https://emulatorgames.onl/motocross-maniacs">Motocross Maniacs</a></li>
+<li><a href="https://emulatorgames.onl/mr.-nutz">Mr. Nutz</a></li>
+<li><a href="https://emulatorgames.onl/naruto">Naruto</a></li>
+<li><a href="https://emulatorgames.onl/nba">NBA</a></li>
+<li><a href="https://emulatorgames.onl/need-for-speed">Need for Speed</a></li>
+<li><a href="https://emulatorgames.onl/nfl">NFL</a></li>
+<li><a href="https://emulatorgames.onl/nhl">NHL</a></li>
+<li><a href="https://emulatorgames.onl/ninja-gaiden">Ninja Gaiden</a></li>
+<li><a href="https://emulatorgames.onl/ninja-turtles">Ninja Turtles</a></li>
+<li><a href="https://emulatorgames.onl/pac-man">Pac-Man</a></li>
+<li><a href="https://emulatorgames.onl/paperboy">Paperboy</a></li>
+<li><a href="https://emulatorgames.onl/phantasy-star">Phantasy Star</a></li>
+<li><a href="https://emulatorgames.onl/picross">Picross</a></li>
+<li><a href="https://emulatorgames.onl/pitfall">Pitfall</a></li>
+<li><a href="https://emulatorgames.onl/pokemon">Pokemon</a></li>
+<li><a href="https://emulatorgames.onl/pong">Pong</a></li>
+<li><a href="https://emulatorgames.onl/power-blade">Power Blade</a></li>
+<li><a href="https://emulatorgames.onl/power-rangers">Power Rangers</a></li>
+<li><a href="https://emulatorgames.onl/prince-of-persia">Prince of Persia</a></li>
+<li><a href="https://emulatorgames.onl/puyo-puyo">Puyo Puyo</a></li>
+<li><a href="https://emulatorgames.onl/r.c.-pro-am">R.C. Pro-Am</a></li>
+<li><a href="https://emulatorgames.onl/rambo">Rambo</a></li>
+<li><a href="https://emulatorgames.onl/rampage">Rampage</a></li>
+<li><a href="https://emulatorgames.onl/rayman">Rayman</a></li>
+<li><a href="https://emulatorgames.onl/road-rash">Road Rash</a></li>
+<li><a href="https://emulatorgames.onl/rolling-thunder">Rolling Thunder</a></li>
+<li><a href="https://emulatorgames.onl/sailor-moon">Sailor Moon</a></li>
+<li><a href="https://emulatorgames.onl/samurai-shodown">Samurai Shodown</a></li>
+<li><a href="https://emulatorgames.onl/secret-of-mana">Secret of Mana</a></li>
+<li><a href="https://emulatorgames.onl/shaman-king">Shaman King</a></li>
+<li><a href="https://emulatorgames.onl/shining-force">Shining Force</a></li>
+<li><a href="https://emulatorgames.onl/shinobi">Shinobi</a></li>
+<li><a href="https://emulatorgames.onl/shrek">Shrek</a></li>
+<li><a href="https://emulatorgames.onl/simcity">SimCity</a></li>
+<li><a href="https://emulatorgames.onl/snake">Snake</a></li>
+<li><a href="https://emulatorgames.onl/sonic">Sonic</a></li>
+<li><a href="https://emulatorgames.onl/space-invaders">Space Invaders</a></li>
+<li><a href="https://emulatorgames.onl/spider-man">Spider-Man</a></li>
+<li><a href="https://emulatorgames.onl/splatterhouse">Splatterhouse</a></li>
+<li><a href="https://emulatorgames.onl/spongebob">SpongeBob</a></li>
+<li><a href="https://emulatorgames.onl/spyro">Spyro</a></li>
+<li><a href="https://emulatorgames.onl/star-fox">Star Fox</a></li>
+<li><a href="https://emulatorgames.onl/star-wars">Star Wars</a></li>
+<li><a href="https://emulatorgames.onl/startropics">StarTropics</a></li>
+<li><a href="https://emulatorgames.onl/street-fighter">Street Fighter</a></li>
+<li><a href="https://emulatorgames.onl/streets-of-rage">Streets of Rage</a></li>
+<li><a href="https://emulatorgames.onl/strider">Strider</a></li>
+<li><a href="https://emulatorgames.onl/strike">Strike</a></li>
+<li><a href="https://emulatorgames.onl/sunset-riders">Sunset Riders</a></li>
+<li><a href="https://emulatorgames.onl/superman">Superman</a></li>
+<li><a href="https://emulatorgames.onl/tekken">Tekken</a></li>
+<li><a href="https://emulatorgames.onl/terminator">Terminator</a></li>
+<li><a href="https://emulatorgames.onl/tetris">Tetris</a></li>
+<li><a href="https://emulatorgames.onl/the-addams-family">The Addams Family</a></li>
+<li><a href="https://emulatorgames.onl/the-flintstones">The Flintstones</a></li>
+<li><a href="https://emulatorgames.onl/the-king-of-fighters">The King of Fighters</a></li>
+<li><a href="https://emulatorgames.onl/the-simpsons">The Simpsons</a></li>
+<li><a href="https://emulatorgames.onl/the-sims">The Sims</a></li>
+<li><a href="https://emulatorgames.onl/tiny-toon-adventures">Tiny Toon Adventures</a></li>
+<li><a href="https://emulatorgames.onl/toe-jam-and-earl">Toe Jam and Earl</a></li>
+<li><a href="https://emulatorgames.onl/top-gear">Top Gear</a></li>
+<li><a href="https://emulatorgames.onl/turok">Turok</a></li>
+<li><a href="https://emulatorgames.onl/uncharted-waters">Uncharted Waters</a></li>
+<li><a href="https://emulatorgames.onl/vectorman">Vectorman</a></li>
+<li><a href="https://emulatorgames.onl/wai-wai-world">Wai Wai World</a></li>
+<li><a href="https://emulatorgames.onl/wario">Wario</a></li>
+<li><a href="https://emulatorgames.onl/wolfenstein">Wolfenstein</a></li>
+<li><a href="https://emulatorgames.onl/wonder-boy">Wonder Boy</a></li>
+<li><a href="https://emulatorgames.onl/worms">Worms</a></li>
+<li><a href="https://emulatorgames.onl/wwe">WWE</a></li>
+<li><a href="https://emulatorgames.onl/x-men">X-Men</a></li>
+<li><a href="https://emulatorgames.onl/yoshi">Yoshi</a></li>
+<li><a href="https://emulatorgames.onl/yu-gi-oh!">Yu-Gi-Oh!</a></li>
+<li><a href="https://emulatorgames.onl/zelda">Zelda</a></li>                </ul>
+            </li>
+            <li><a href="/blog">Emulator Games Blog</a></li>
+            <li><a href="/contacts">Contacts</a></li>
+        </ul>
+    </div>
+</div>
+<hr>
+        <div class="uk-container uk-light">
+            <h1>Emulator Games</h1>
+            <div class="uk-flex uk-flex-center uk-hidden-touch">
+    <div id='emulatorgames-onl_970x90'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('emulatorgames-onl_970x90'); });
+		</script>
+	</div>
+</div>
+<div class="uk-flex uk-flex-center uk-hidden-notouch">
+    <div id='emulatorgames-onl_300x600'>
+    	<script type='text/javascript'>
+    		aiptag.cmd.display.push(function() { aipDisplayTag.display('emulatorgames-onl_300x600'); });
+    	</script>
+    </div>
+</div>            <h2>CONSOLES</h2>
+            <div class="cssgrid">
+                <ul><li><a href="https://emulatorgames.onl/atari">Atari 2600</a></li>
+<li><a href="https://emulatorgames.onl/jaguar">Atari Jaguar</a></li>
+<li><a href="https://emulatorgames.onl/lynx">Atari Lynx</a></li>
+<li><a href="https://emulatorgames.onl/game-boy">Game Boy</a></li>
+<li><a href="https://emulatorgames.onl/game-boy-advance">Game Boy Advance</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/game-boy-color">Game Boy Color</a></li>
+<li><a href="https://emulatorgames.onl/msx">MSX</a></li>
+<li><a href="https://emulatorgames.onl/neo-geo-pocket">Neo Geo Pocket</a></li>
+<li><a href="https://emulatorgames.onl/nintendo">Nintendo</a></li>
+<li><a href="https://emulatorgames.onl/nintendo-64">Nintendo 64</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/nintendo-ds">Nintendo DS</a></li>
+<li><a href="https://emulatorgames.onl/play-station-1">Play Station 1</a></li>
+<li><a href="https://emulatorgames.onl/sega">Sega</a></li>
+<li><a href="https://emulatorgames.onl/sega-game-gear">Sega Game Gear</a></li>
+<li><a href="https://emulatorgames.onl/sega-master-system">Sega Master System</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/super-nintendo">Super Nintendo</a></li>
+<li><a href="https://emulatorgames.onl/turbografx-16-pc-engine">Turbografx-16/PC Engine</a></li>
+<li><a href="https://emulatorgames.onl/virtual-boy">Virtual Boy</a></li>
+<li><a href="https://emulatorgames.onl/wonderswan-color">WonderSwan Color</a></li></ul>            </div>
+            <h2>GAME GENRES</h2>
+            <div class="cssgrid">
+                <ul><li><a href="https://emulatorgames.onl/3d">3D</a></li>
+<li><a href="https://emulatorgames.onl/action">Action</a></li>
+<li><a href="https://emulatorgames.onl/adventure">Adventure</a></li>
+<li><a href="https://emulatorgames.onl/anime">Anime</a></li>
+<li><a href="https://emulatorgames.onl/arcade">Arcade</a></li>
+<li><a href="https://emulatorgames.onl/beat-em-up">Beat em up</a></li>
+<li><a href="https://emulatorgames.onl/board">Board</a></li>
+<li><a href="https://emulatorgames.onl/card">Card</a></li>
+<li><a href="https://emulatorgames.onl/chess">Chess</a></li>
+<li><a href="https://emulatorgames.onl/cooking">Cooking</a></li>
+<li><a href="https://emulatorgames.onl/distance">Distance</a></li>
+<li><a href="https://emulatorgames.onl/dress-up">Dress-up</a></li>
+<li><a href="https://emulatorgames.onl/driving">Driving</a></li>
+<li><a href="https://emulatorgames.onl/fighting">Fighting</a></li>
+<li><a href="https://emulatorgames.onl/flight">Flight</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/funny">Funny</a></li>
+<li><a href="https://emulatorgames.onl/girl">Girl</a></li>
+<li><a href="https://emulatorgames.onl/golf">Golf</a></li>
+<li><a href="https://emulatorgames.onl/hockey">Hockey</a></li>
+<li><a href="https://emulatorgames.onl/holiday">Holiday</a></li>
+<li><a href="https://emulatorgames.onl/manga">Manga</a></li>
+<li><a href="https://emulatorgames.onl/maze">Maze</a></li>
+<li><a href="https://emulatorgames.onl/motorbike">Motorbike</a></li>
+<li><a href="https://emulatorgames.onl/movie">Movie</a></li>
+<li><a href="https://emulatorgames.onl/multiplayer">Multiplayer</a></li>
+<li><a href="https://emulatorgames.onl/music">Music</a></li>
+<li><a href="https://emulatorgames.onl/ninja">Ninja</a></li>
+<li><a href="https://emulatorgames.onl/physics">Physics</a></li>
+<li><a href="https://emulatorgames.onl/pinball">Pinball</a></li>
+<li><a href="https://emulatorgames.onl/platform">Platform</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/point-and-click">Point & Click</a></li>
+<li><a href="https://emulatorgames.onl/puzzle">Puzzle</a></li>
+<li><a href="https://emulatorgames.onl/racing">Racing</a></li>
+<li><a href="https://emulatorgames.onl/rpg">RPG</a></li>
+<li><a href="https://emulatorgames.onl/run-and-gun">Run & Gun</a></li>
+<li><a href="https://emulatorgames.onl/scary">Scary</a></li>
+<li><a href="https://emulatorgames.onl/shoot-em-up">Shoot em up</a></li>
+<li><a href="https://emulatorgames.onl/shooting">Shooting</a></li>
+<li><a href="https://emulatorgames.onl/simulation">Simulation</a></li>
+<li><a href="https://emulatorgames.onl/skateboarding">Skateboarding</a></li>
+<li><a href="https://emulatorgames.onl/skill">Skill</a></li>
+<li><a href="https://emulatorgames.onl/soccer">Soccer</a></li>
+<li><a href="https://emulatorgames.onl/sports">Sports</a></li>
+<li><a href="https://emulatorgames.onl/stone-age">Stone Age</a></li>
+<li><a href="https://emulatorgames.onl/strategy">Strategy</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/tank">Tank</a></li>
+<li><a href="https://emulatorgames.onl/tennis">Tennis</a></li>
+<li><a href="https://emulatorgames.onl/trivia">Trivia</a></li>
+<li><a href="https://emulatorgames.onl/truck">Truck</a></li>
+<li><a href="https://emulatorgames.onl/tv">TV</a></li>
+<li><a href="https://emulatorgames.onl/volleyball">Volleyball</a></li>
+<li><a href="https://emulatorgames.onl/zombie">Zombie</a></li></ul>            </div>
+            <h2>GAME SERIES</h2>
+            <div class="cssgrid">
+                <ul><li><a href="https://emulatorgames.onl/actraiser">ActRaiser</a></li>
+<li><a href="https://emulatorgames.onl/adventure-island">Adventure Island</a></li>
+<li><a href="https://emulatorgames.onl/adventures-of-lolo">Adventures of LOLO</a></li>
+<li><a href="https://emulatorgames.onl/aero-the-acro-bat">Aero the Acro-Bat</a></li>
+<li><a href="https://emulatorgames.onl/alex-kidd">Alex Kidd</a></li>
+<li><a href="https://emulatorgames.onl/alien">Alien</a></li>
+<li><a href="https://emulatorgames.onl/all-games">All Games</a></li>
+<li><a href="https://emulatorgames.onl/animaniacs">Animaniacs</a></li>
+<li><a href="https://emulatorgames.onl/another-world">Another World</a></li>
+<li><a href="https://emulatorgames.onl/arkanoid">Arkanoid</a></li>
+<li><a href="https://emulatorgames.onl/art-of-fighting">Art of Fighting</a></li>
+<li><a href="https://emulatorgames.onl/asterix-and-obelix">Asterix and Obelix</a></li>
+<li><a href="https://emulatorgames.onl/asteroids">Asteroids</a></li>
+<li><a href="https://emulatorgames.onl/barbie">Barbie</a></li>
+<li><a href="https://emulatorgames.onl/baseball">Baseball</a></li>
+<li><a href="https://emulatorgames.onl/batman">Batman</a></li>
+<li><a href="https://emulatorgames.onl/battletoads">Battletoads</a></li>
+<li><a href="https://emulatorgames.onl/bomberman">Bomberman</a></li>
+<li><a href="https://emulatorgames.onl/bonk">Bonk</a></li>
+<li><a href="https://emulatorgames.onl/boogerman">Boogerman</a></li>
+<li><a href="https://emulatorgames.onl/breakout">Breakout</a></li>
+<li><a href="https://emulatorgames.onl/breath-of-fire">Breath of Fire</a></li>
+<li><a href="https://emulatorgames.onl/bruce-lee">Bruce Lee</a></li>
+<li><a href="https://emulatorgames.onl/bubble-bobble">Bubble Bobble</a></li>
+<li><a href="https://emulatorgames.onl/bubsy">Bubsy</a></li>
+<li><a href="https://emulatorgames.onl/bugs-bunny">Bugs Bunny</a></li>
+<li><a href="https://emulatorgames.onl/captain-tsubasa">Captain Tsubasa</a></li>
+<li><a href="https://emulatorgames.onl/castlevania">Castlevania</a></li>
+<li><a href="https://emulatorgames.onl/centipede">Centipede</a></li>
+<li><a href="https://emulatorgames.onl/contra">Contra</a></li>
+<li><a href="https://emulatorgames.onl/crash-bandicoot">Crash Bandicoot</a></li>
+<li><a href="https://emulatorgames.onl/crystalis">Crystalis</a></li>
+<li><a href="https://emulatorgames.onl/dbz">DBZ</a></li>
+<li><a href="https://emulatorgames.onl/defender">Defender</a></li>
+<li><a href="https://emulatorgames.onl/dig-dug">Dig Dug</a></li>
+<li><a href="https://emulatorgames.onl/digimon">Digimon</a></li>
+<li><a href="https://emulatorgames.onl/donkey-kong">Donkey Kong</a></li>
+<li><a href="https://emulatorgames.onl/doom">Doom</a></li>
+<li><a href="https://emulatorgames.onl/double-dragon">Double Dragon</a></li>
+<li><a href="https://emulatorgames.onl/dragon-quest">Dragon Quest</a></li>
+<li><a href="https://emulatorgames.onl/dragon-slayer">Dragon Slayer</a></li>
+<li><a href="https://emulatorgames.onl/dragons-lair">Dragon's Lair</a></li>
+<li><a href="https://emulatorgames.onl/duke-nukem">Duke Nukem</a></li>
+<li><a href="https://emulatorgames.onl/dungeons-and-dragons">Dungeons & Dragons</a></li>
+<li><a href="https://emulatorgames.onl/earthworm-jim">Earthworm Jim</a></li>
+<li><a href="https://emulatorgames.onl/ecco">Ecco</a></li>
+<li><a href="https://emulatorgames.onl/excitebike">Excitebike</a></li>
+<li><a href="https://emulatorgames.onl/fifa">FIFA</a></li>
+<li><a href="https://emulatorgames.onl/final-fantasy">Final Fantasy</a></li>
+<li><a href="https://emulatorgames.onl/fire-emblem">Fire Emblem</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/frankenstein">Frankenstein</a></li>
+<li><a href="https://emulatorgames.onl/frogger">Frogger</a></li>
+<li><a href="https://emulatorgames.onl/front-mission">Front Mission</a></li>
+<li><a href="https://emulatorgames.onl/galaga">Galaga</a></li>
+<li><a href="https://emulatorgames.onl/garfield">Garfield</a></li>
+<li><a href="https://emulatorgames.onl/gargoyle">Gargoyle</a></li>
+<li><a href="https://emulatorgames.onl/gauntlet">Gauntlet</a></li>
+<li><a href="https://emulatorgames.onl/ghostbusters">Ghostbusters</a></li>
+<li><a href="https://emulatorgames.onl/ghosts-n-goblins">Ghosts n Goblins</a></li>
+<li><a href="https://emulatorgames.onl/golden-axe">Golden Axe</a></li>
+<li><a href="https://emulatorgames.onl/goonies">Goonies</a></li>
+<li><a href="https://emulatorgames.onl/gradius">Gradius</a></li>
+<li><a href="https://emulatorgames.onl/grand-theft-auto">Grand Theft Auto</a></li>
+<li><a href="https://emulatorgames.onl/gremlins">Gremlins</a></li>
+<li><a href="https://emulatorgames.onl/gundam">Gundam</a></li>
+<li><a href="https://emulatorgames.onl/harry-potter">Harry Potter</a></li>
+<li><a href="https://emulatorgames.onl/harvest-moon">Harvest Moon</a></li>
+<li><a href="https://emulatorgames.onl/home-alone">Home Alone</a></li>
+<li><a href="https://emulatorgames.onl/inspector-gadget">Inspector Gadget</a></li>
+<li><a href="https://emulatorgames.onl/internat.-superstar-soccer">Internat. Superstar Soccer</a></li>
+<li><a href="https://emulatorgames.onl/james-bond-007">James Bond 007</a></li>
+<li><a href="https://emulatorgames.onl/jeopardy">Jeopardy</a></li>
+<li><a href="https://emulatorgames.onl/joe-and-mac">Joe & Mac</a></li>
+<li><a href="https://emulatorgames.onl/joust">Joust</a></li>
+<li><a href="https://emulatorgames.onl/jurassic-park">Jurassic Park</a></li>
+<li><a href="https://emulatorgames.onl/kirby">Kirby</a></li>
+<li><a href="https://emulatorgames.onl/klax">Klax</a></li>
+<li><a href="https://emulatorgames.onl/lego">LEGO</a></li>
+<li><a href="https://emulatorgames.onl/lemmings">Lemmings</a></li>
+<li><a href="https://emulatorgames.onl/lost-vikings">Lost Vikings</a></li>
+<li><a href="https://emulatorgames.onl/madden">Madden</a></li>
+<li><a href="https://emulatorgames.onl/mario">Mario</a></li>
+<li><a href="https://emulatorgames.onl/marvel">Marvel</a></li>
+<li><a href="https://emulatorgames.onl/mcdonalds">McDonald's</a></li>
+<li><a href="https://emulatorgames.onl/mega-man">Mega Man</a></li>
+<li><a href="https://emulatorgames.onl/metal-gear">Metal Gear</a></li>
+<li><a href="https://emulatorgames.onl/metroid">Metroid</a></li>
+<li><a href="https://emulatorgames.onl/mickey-mouse">Mickey Mouse</a></li>
+<li><a href="https://emulatorgames.onl/micro-machines">Micro Machines</a></li>
+<li><a href="https://emulatorgames.onl/mighty-max">Mighty Max</a></li>
+<li><a href="https://emulatorgames.onl/mike-tyson">Mike Tyson</a></li>
+<li><a href="https://emulatorgames.onl/monopoly">Monopoly</a></li>
+<li><a href="https://emulatorgames.onl/mortal-kombat">Mortal Kombat</a></li>
+<li><a href="https://emulatorgames.onl/motocross-maniacs">Motocross Maniacs</a></li>
+<li><a href="https://emulatorgames.onl/mr.-nutz">Mr. Nutz</a></li>
+<li><a href="https://emulatorgames.onl/naruto">Naruto</a></li>
+<li><a href="https://emulatorgames.onl/nba">NBA</a></li>
+<li><a href="https://emulatorgames.onl/need-for-speed">Need for Speed</a></li>
+<li><a href="https://emulatorgames.onl/nfl">NFL</a></li>
+<li><a href="https://emulatorgames.onl/nhl">NHL</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/ninja-gaiden">Ninja Gaiden</a></li>
+<li><a href="https://emulatorgames.onl/ninja-turtles">Ninja Turtles</a></li>
+<li><a href="https://emulatorgames.onl/pac-man">Pac-Man</a></li>
+<li><a href="https://emulatorgames.onl/paperboy">Paperboy</a></li>
+<li><a href="https://emulatorgames.onl/phantasy-star">Phantasy Star</a></li>
+<li><a href="https://emulatorgames.onl/picross">Picross</a></li>
+<li><a href="https://emulatorgames.onl/pitfall">Pitfall</a></li>
+<li><a href="https://emulatorgames.onl/pokemon">Pokemon</a></li>
+<li><a href="https://emulatorgames.onl/pong">Pong</a></li>
+<li><a href="https://emulatorgames.onl/power-blade">Power Blade</a></li>
+<li><a href="https://emulatorgames.onl/power-rangers">Power Rangers</a></li>
+<li><a href="https://emulatorgames.onl/prince-of-persia">Prince of Persia</a></li>
+<li><a href="https://emulatorgames.onl/puyo-puyo">Puyo Puyo</a></li>
+<li><a href="https://emulatorgames.onl/r.c.-pro-am">R.C. Pro-Am</a></li>
+<li><a href="https://emulatorgames.onl/rambo">Rambo</a></li>
+<li><a href="https://emulatorgames.onl/rampage">Rampage</a></li>
+<li><a href="https://emulatorgames.onl/rayman">Rayman</a></li>
+<li><a href="https://emulatorgames.onl/road-rash">Road Rash</a></li>
+<li><a href="https://emulatorgames.onl/rolling-thunder">Rolling Thunder</a></li>
+<li><a href="https://emulatorgames.onl/sailor-moon">Sailor Moon</a></li>
+<li><a href="https://emulatorgames.onl/samurai-shodown">Samurai Shodown</a></li>
+<li><a href="https://emulatorgames.onl/secret-of-mana">Secret of Mana</a></li>
+<li><a href="https://emulatorgames.onl/shaman-king">Shaman King</a></li>
+<li><a href="https://emulatorgames.onl/shining-force">Shining Force</a></li>
+<li><a href="https://emulatorgames.onl/shinobi">Shinobi</a></li>
+<li><a href="https://emulatorgames.onl/shrek">Shrek</a></li>
+<li><a href="https://emulatorgames.onl/simcity">SimCity</a></li>
+<li><a href="https://emulatorgames.onl/snake">Snake</a></li>
+<li><a href="https://emulatorgames.onl/sonic">Sonic</a></li>
+<li><a href="https://emulatorgames.onl/space-invaders">Space Invaders</a></li>
+<li><a href="https://emulatorgames.onl/spider-man">Spider-Man</a></li>
+<li><a href="https://emulatorgames.onl/splatterhouse">Splatterhouse</a></li>
+<li><a href="https://emulatorgames.onl/spongebob">SpongeBob</a></li>
+<li><a href="https://emulatorgames.onl/spyro">Spyro</a></li>
+<li><a href="https://emulatorgames.onl/star-fox">Star Fox</a></li>
+<li><a href="https://emulatorgames.onl/star-wars">Star Wars</a></li>
+<li><a href="https://emulatorgames.onl/startropics">StarTropics</a></li>
+<li><a href="https://emulatorgames.onl/street-fighter">Street Fighter</a></li>
+<li><a href="https://emulatorgames.onl/streets-of-rage">Streets of Rage</a></li>
+<li><a href="https://emulatorgames.onl/strider">Strider</a></li>
+<li><a href="https://emulatorgames.onl/strike">Strike</a></li>
+<li><a href="https://emulatorgames.onl/sunset-riders">Sunset Riders</a></li>
+<li><a href="https://emulatorgames.onl/superman">Superman</a></li>
+<li><a href="https://emulatorgames.onl/tekken">Tekken</a></li>
+<li><a href="https://emulatorgames.onl/terminator">Terminator</a></li>
+<li><a href="https://emulatorgames.onl/tetris">Tetris</a></li>
+<li><a href="https://emulatorgames.onl/the-addams-family">The Addams Family</a></li>
+<li><a href="https://emulatorgames.onl/the-flintstones">The Flintstones</a></li>
+<li><a href="https://emulatorgames.onl/the-king-of-fighters">The King of Fighters</a></li>
+<li><a href="https://emulatorgames.onl/the-simpsons">The Simpsons</a></li></ul><ul>
+<li><a href="https://emulatorgames.onl/the-sims">The Sims</a></li>
+<li><a href="https://emulatorgames.onl/tiny-toon-adventures">Tiny Toon Adventures</a></li>
+<li><a href="https://emulatorgames.onl/toe-jam-and-earl">Toe Jam and Earl</a></li>
+<li><a href="https://emulatorgames.onl/top-gear">Top Gear</a></li>
+<li><a href="https://emulatorgames.onl/turok">Turok</a></li>
+<li><a href="https://emulatorgames.onl/uncharted-waters">Uncharted Waters</a></li>
+<li><a href="https://emulatorgames.onl/vectorman">Vectorman</a></li>
+<li><a href="https://emulatorgames.onl/wai-wai-world">Wai Wai World</a></li>
+<li><a href="https://emulatorgames.onl/wario">Wario</a></li>
+<li><a href="https://emulatorgames.onl/wolfenstein">Wolfenstein</a></li>
+<li><a href="https://emulatorgames.onl/wonder-boy">Wonder Boy</a></li>
+<li><a href="https://emulatorgames.onl/worms">Worms</a></li>
+<li><a href="https://emulatorgames.onl/wwe">WWE</a></li>
+<li><a href="https://emulatorgames.onl/x-men">X-Men</a></li>
+<li><a href="https://emulatorgames.onl/yoshi">Yoshi</a></li>
+<li><a href="https://emulatorgames.onl/yu-gi-oh!">Yu-Gi-Oh!</a></li>
+<li><a href="https://emulatorgames.onl/zelda">Zelda</a></li></ul>            </div>
+            <hr>
+            <div class="uk-flex uk-flex-center uk-hidden-touch">
+    <div id='emulatorgames-onl_970x250'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('emulatorgames-onl_970x250'); });
+		</script>
+	</div>
+</div>
+<div class="uk-flex uk-flex-center uk-hidden-notouch">
+    <div id='emulatorgames-onl_336x280'>
+		<script type='text/javascript'>
+			aiptag.cmd.display.push(function() { aipDisplayTag.display('emulatorgames-onl_336x280'); });
+		</script>
+	</div>
+</div>            <hr>
+            <p><span style="font-weight: 400;">As technology evolves, entertainment is becoming increasingly exciting and immersive. Virtual worlds of today are astonishingly vast and realistic. But there is an undeniable charm about many beloved titles of the past. People who grew up with classic consoles like to occasionally revisit their favorite interactive adventures. Sadly, older hardware breaks down quite easily. It&rsquo;s only a matter of time before a decades-old setup becomes obsolete. This is why </span><span style="font-weight: 400;">emulator games</span><span style="font-weight: 400;"> are so important for the entire industry. They provide the ability to recreate familiar experiences on a multitude of platforms. As a result, fans can enjoy hundreds of iconic platformers, shooters, and tournament fighters. Understandably, the uninitiated tend to feel somewhat overwhelmed by the concept. The very idea of emulation sounds intimidating and hard to grasp. This article will explain it in simple, easy-to-understand terms and introduce newcomers to the niche.</span></p>
+<h2><span style="font-weight: 400;">Infinite Possibilities</span></h2>
+<p><span style="font-weight: 400;">Preserving art has always been a challenging undertaking, and its digital forms are no exception. Developers, publisher, and copyright owners have varying views on the subject. Some welcome the community&rsquo;s efforts with open arms. Others oppose them due to piracy concerns and potential loss of profit. But overall, most see this growing trend as a positive force. With in mind, there are several major approaches to consider:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Running web-friendly versions of </span><span style="font-weight: 400;">emulator games online</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sticking to official remasters that don&rsquo;t require a virtual machine</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Downloading ROMs and images and mounting them on PC, Linux, or Mac using special software</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Building custom devices that copy outdated systems and their functionality</span></li>
+</ul>
+<p><span style="font-weight: 400;">Due to how straightforward and widely accessible it is, the first option is incredibly popular. That isn&rsquo;t to say that it is superior to other methods. The alternatives have many advantages, including customizability, fine-tuning, and a huge potential for optimization. However, the legality is often questionable and depends on the local laws. Meanwhile, there is nothing criminal about visiting a regular website and exploring its cloud-based collection.</span></p>
+<h2><span style="font-weight: 400;">How to </span><span style="font-weight: 400;">Play Emulator Games Online</span></h2>
+<p><span style="font-weight: 400;">Some of the aforementioned techniques take up a lot of time and energy. Users inevitably encounter multiple errors and hiccups that can be tricky to resolve. Thankfully, those who have no interest in tinkering, don&rsquo;t have to burden themselves. Chances are, tech-savvy individuals have already taken care of everything. Websites like this one offer numerous preconfigured builds free of charge. Modern browsers are perfectly capable of handling such workloads. To access the desired entry, click on its thumbnail and wait a few moments. After a brief loading screen, the main menu should appear. Make sure to use Google Chrome, Mozilla Firefox, or another widespread client for best results. In case of any issues, try disabling ad-blocking plugins.</span></p>
+<p><span style="font-weight: 400;">Hopefully, this information has cleared everything up and pointed beginners in the right direction. </span><span style="font-weight: 400;">Play retro games online</span><span style="font-weight: 400;"> without installation, or create a personal setup for additional flexibility. Relive the most wonderful memories of the past decades and have fun.</span></p>        </div>
+
+
+<footer class="uk-background-secondary uk-padding uk-text-center uk-light">
+    <p> Emulator Games 2024</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@latest/dist/js/uikit-icons.min.js"></script>
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){ m[i]=m[i]||function(){ (m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(89867345, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/89867345" style="position:absolute; left:-9999px;" alt="emulatorgames.onl" /></div></noscript>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ET1QBTR3ZX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ET1QBTR3ZX');
+</script><script src="/assets/components/msearch2/js/web/default.js"></script>
+
+	<script type="text/javascript">
+		if ($("form.msearch2").length) {
+			mSearch2.Form.initialize("form.msearch2");
+		}
+	</script>
+</body>
+</html>

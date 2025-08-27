@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+
+    <style>
+        .rom-row {
+            display: flex;
+            padding: 3px;
+            font-size: 13pt;
+            align-items: center;
+        }
+
+        .index {
+            margin-right: 6px;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>ROMs Use</h1>
+    <% games.forEach((game, index) => { %>
+        <div class="rom-row">
+            <div class="index"><%= index %></div>
+            <a href="/<%= game.path %>" class="rom-link"><%= game.name %></a>
+        </div>
+    <% }); %>
+</body>
+</html>
