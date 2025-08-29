@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+
+    <style>
+        .rom-row {
+            display: flex;
+            padding: 3px;
+            font-size: 13pt;
+            align-items: center;
+        }
+
+        .rom-index {
+            margin-right: 6px;
+        }
+
+        .rom-index {
+            color: rgb(1, 132, 255);
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>ROMs List</h1>
+
+    <script>
+        const body = document.body;
+        const head = document.head;
+
+        const games = [
+            { name: "Pokemon Emerald", file: "gba-pokemon-emerald-original.zip", path: "emerald" },
+            { name: "Emerald Hack", file: "pokeemerald-5.zip", path: "hack" },
+            { name: "Pokemon Unbound", file: "pokemon-unbound.zip", path: "unbound" },
+            { name: "Pokemon Liquid Crystal", file: "gba-pokemon-liquid-crystal.zip", path: "liquidCrystal" },
+            { name: "Advance Wars", file: "advance-wars.zip", path: "advanceWars" },
+            { name: "Advance Wars 2 - Black Hole Rising", file: "advance-wars-2-black-hole-rising.zip", path: "advanceWars2" }
+        ];
+
+        games.forEach((game, index) => {
+            body.insertAdjacentHTML('beforeend', `
+                <div class="rom-row">
+                    <div class="rom-index">${index}</div>
+                    <p onclick="startGame('${JSON.stringify(game)}')" class="rom-link">${game.name}</p>
+                </div>`);
+        });
+
+        function startGame(game) {
+            game = JSON.parse(game);
+            const styleElement = document.createElement('style');
+            styleElement.textContent = "body, html {margin: 0;padding: 0;}";
+            head.appendChild(styleElement);
+
+            const clearElements = document.querySelectorAll('body *');
+            clearElements.forEach(element => { element.remove(); });
+
+            body.insertAdjacentHTML('beforeend', `
+                <div style="width:100%;height:100%;max-width:100%">
+                    <div id="game"></div>
+                </div>
+                <script>
+                    EJS_player = "#game";
+                    EJS_core = "gba";
+                    EJS_gameName = "${game.name}";
+                    EJS_color = "#0064ff";
+                    EJS_startOnLoaded = true;
+                    EJS_pathtodata = "./stable/data/";
+                    EJS_gameUrl = "./roms/${game.file}";
+                </script>
+                <script src="./stable/data/loader.js"></script>
+            `);
+        }
+    </script>
+</body>
+</html>
