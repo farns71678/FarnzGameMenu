@@ -9,7 +9,8 @@ const games = [
     { name: "Pokemon Unbound", file: "pokemon-unbound.zip", path: "unbound" },
     { name: "Pokemon Liquid Crystal", file: "gba-pokemon-liquid-crystal.zip", path: "liquidCrystal" },
     { name: "Advance Wars", file: "advance-wars.zip", path: "advanceWars" },
-    { name: "Advance Wars 2 - Black Hole Rising", file: "advance-wars-2-black-hole-rising.zip", path: "advanceWars2" }
+    { name: "Advance Wars 2 - Black Hole Rising", file: "advance-wars-2-black-hole-rising.zip", path: "advanceWars2" },
+    { name: "F-14 Tomcat", file: "f-14-tomcat.zip", path: "tomcat" }
 ];
 
 app.set('view engine', 'ejs');
